@@ -9,15 +9,15 @@
 
  Included Resources
  I have integrated the following projects into this single package:
-  1. Hardcore Wither Heart Totem
+ 1. Hardcore Wither Heart Totem
     Replaces the default Totem of Undying with a stylized Wither Heart.
     Original: https://modrinth.com/resourcepack/hardcore-wither-heart-totem-of-undying?version=1.21.10
 
-  2.Simple Grass Flowers
+ 2.Simple Grass Flowers
     Adds aesthetic floral details to grass blocks for a more vibrant environment.
     Original: https://modrinth.com/resourcepack/simple-grass-flowers?version=1.21.10
     
-  3.TheOne's Eating Animation Pack
+ 3.TheOne's Eating Animation Pack
     Implements smooth, immersive eating and drinking animations.
     Original: https://modrinth.com/resourcepack/theones-eating-animation-pack?version=1.21.11
 
