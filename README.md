@@ -29,8 +29,11 @@
 
   Installation
    1.Navigate to the Releases section of this repository.
+   
    2.Download the latest .zip file.
+   
    3.Move the downloaded file into your Minecraft resourcepacks folder.
+   
    4.Enable the pack in the game's Resource Packs settings.
 
   Credits and Disclaimer
